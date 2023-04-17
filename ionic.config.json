@@ -1,0 +1,7 @@
+{
+  "name": "storybook-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
